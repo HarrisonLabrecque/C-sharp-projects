@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\C-sharp\Guessgame\bin\Debug\net10.0\Guessgame.exe
+C:\Users\Acer\Desktop\C-sharp\Guessgame\bin\Debug\net10.0\Guessgame.deps.json
+C:\Users\Acer\Desktop\C-sharp\Guessgame\bin\Debug\net10.0\Guessgame.runtimeconfig.json
+C:\Users\Acer\Desktop\C-sharp\Guessgame\bin\Debug\net10.0\Guessgame.dll
+C:\Users\Acer\Desktop\C-sharp\Guessgame\bin\Debug\net10.0\Guessgame.pdb
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\Guessgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\Guessgame.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\Guessgame.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\Guessgame.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\Guessgame.dll
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\refint\Guessgame.dll
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\Guessgame.pdb
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\Guessgame.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C-sharp\Guessgame\obj\Debug\net10.0\ref\Guessgame.dll
