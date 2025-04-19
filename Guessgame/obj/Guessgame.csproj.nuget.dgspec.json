@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\C-sharp\\Guessgame\\Guessgame.csproj": {}
+    "C:\\Users\\Acer\\Documents\\C-sharp\\Guessgame\\Guessgame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\C-sharp\\Guessgame\\Guessgame.csproj": {
+    "C:\\Users\\Acer\\Documents\\C-sharp\\Guessgame\\Guessgame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\C-sharp\\Guessgame\\Guessgame.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\C-sharp\\Guessgame\\Guessgame.csproj",
         "projectName": "Guessgame",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\C-sharp\\Guessgame\\Guessgame.csproj",
+        "projectPath": "C:\\Users\\Acer\\Documents\\C-sharp\\Guessgame\\Guessgame.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\C-sharp\\Guessgame\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\C-sharp\\Guessgame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
