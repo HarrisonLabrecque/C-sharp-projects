@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\bin\Debug\net10.0\Calc.exe
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\bin\Debug\net10.0\Calc.deps.json
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\bin\Debug\net10.0\Calc.runtimeconfig.json
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\bin\Debug\net10.0\Calc.dll
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\bin\Debug\net10.0\Calc.pdb
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.AssemblyInfo.cs
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.sourcelink.json
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.dll
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\refint\Calc.dll
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.pdb
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\Calc.genruntimeconfig.cache
+C:\Users\Acer\Documents\C-sharp\Calc\Calc\obj\Debug\net10.0\ref\Calc.dll
